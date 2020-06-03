@@ -7,7 +7,6 @@ namespace ArrayManipulation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             int[][] queries = new int[3][];
             queries[0] = new int[]{1, 5, 3};
             queries[1] = new int[]{4, 8, 7};
